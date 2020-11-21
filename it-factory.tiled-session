@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "map.json": {
+            "scale": 0.5511548913043478,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 745.7068901762603,
+                "y": 522.539134722051
+            }
+        },
+        "map.json#exit": {
+            "scaleInDock": 1
+        },
+        "map.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "map.json#office_2": {
+            "scaleInDock": 1
+        },
+        "map.json#office_3": {
+            "scaleInDock": 1
+        },
+        "map.json#office_4": {
+            "scaleInDock": 1
+        },
+        "map.json#water": {
+            "scaleInDock": 1
+        },
+        "test.json": {
+            "scale": 0.2510210396039604,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1589.5081967213116,
+                "y": 1601.459386170344
+            }
+        }
+    },
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "map.json",
+        "test.json"
+    ],
+    "project": "it-factory.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "map.json",
+        "test.json"
+    ]
+}

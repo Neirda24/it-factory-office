@@ -10,7 +10,7 @@
     "fileStates": {
         "map.json": {
             "scale": 0.5511548913043478,
-            "selectedLayer": 7,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 745.7068901762603,
                 "y": 522.539134722051
@@ -51,8 +51,7 @@
     },
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "map.json",
-        "test.json"
+        "map.json"
     ],
     "project": "it-factory.tiled-project",
     "property.type": "int",
